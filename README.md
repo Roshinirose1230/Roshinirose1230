@@ -79,6 +79,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/roshini-a-8548011b5/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="aroshinibee@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?pli=1#inbox">
   <img align="left" alt="MAIL" width="22px" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/gmail.png?alt=media&token=506a1605-313a-49d2-b84e-d33d1c850157" />
 </a>
