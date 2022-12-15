@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## **This is _Roshini_,**
 
 
-## **I'm an  _Front End Developer_**
+## **I'm a  _Software Developer_**
 
 > <img align="center" alt="rose" width="300px" src="https://firebasestorage.googleapis.com/v0/b/superstar-32cda.appspot.com/o/typing.gif?alt=media&token=27ea8cfb-43d6-4be3-91c0-97407adfc716"/>
 <br>
